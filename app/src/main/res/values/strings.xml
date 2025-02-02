@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flavor Sample</string>
+    <string name="version_name">main版本</string>
+    <string name="version_description">這是main版本</string>
+</resources>
